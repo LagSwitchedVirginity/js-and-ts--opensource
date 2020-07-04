@@ -7,7 +7,9 @@ Complain all you want, but it's 3am
 - 3am 07/04/2020 EST
     - A way to get a random item from a nested object
         - [Item that isn't a object](random really cool stuff/get random item from nested object or array.js)
-        - [Item at a specific level or end of object](random really cool stuff/get random item from nested object or array v2.js)
-            - More explanation:
+            - Usages:
+                1. `<func>(obj)`
+                2. `<func>(obj,levelGoal)`
+            - Explanation of usage #b
                 - If level reached = level specified, return random from that level
                 - If level = non object/array item, return that level-item
