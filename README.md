@@ -6,7 +6,8 @@ Welcome to things I make at random that I think are useful
 Complain all you want, but it's 3am 
 - 3am 07/04/2020 EST
     - A way to get a random item from a nested object
-        - [Item that isn't a object](random really cool stuff/get random item from nested object or array.js)
+        - [Item that isn't a object](random%20really%20cool%20stuff/get%20random%20item%20from%20nested%20object%20or%20array.js)
+            - [Example](random%20really%20cool%20stuff/get%20random%20item%20from%20nested%20object%20or%20array%20-%20example.js)
             - Usages:
                 1. `<func>(obj)`
                 2. `<func>(obj,levelGoal)`
